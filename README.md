@@ -11,5 +11,5 @@
 **Repository Contents**:<br>
 | S.No | Topic | Branch | Content |
 |------|-------|--------|---------|
-| 1    | Classical Models | [classical](./tree/classical) | Contains all the Classical Models used for comparison and evaluation purposes |
-| 2    | Quantum Model | [quantum](./tree/quantum) | Contains our proposed Quantum Transfer Learning Model |
+| 1    | Classical Models | classical | Contains all the Classical Models used for comparison and evaluation purposes |
+| 2    | Quantum Model | quantum | Contains our proposed Quantum Transfer Learning Model |
